@@ -1,8 +1,8 @@
 class Kc < Formula
   desc "Store long secrets in the keychain without the 128-character prompt limit"
   homepage "https://github.com/wheelerlaw/kc"
-  url "https://github.com/wheelerlaw/kc/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ee5ae5e7b9cf755feb1bc333a6c85534e5362c4a461a8fc3edb95f4093edff46"
+  url "https://github.com/wheelerlaw/kc/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "315e5d02a3df1915abfa3eedc8910f444d082173eaee7c4d295f3fb0241014d5"
   license "MIT"
   head "https://github.com/wheelerlaw/kc.git", branch: "main"
 
