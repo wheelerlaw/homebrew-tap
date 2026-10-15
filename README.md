@@ -8,4 +8,4 @@ brew install wheelerlaw/tap/clone
 
 | Formula | Description |
 |---|---|
-| [clone](https://github.com/wheelerlaw/clone) | Clone git repositories into a host/org/repo directory layout |
+| [clone](https://github.com/wheelerlaw/clone) | Git clone wrapper that organizes repos into a host/org/repo directory layout |
