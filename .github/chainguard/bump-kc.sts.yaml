@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/octo-sts/app/refs/heads/main/pkg/octosts/octosts.TrustPolicy.json
 issuer: https://token.actions.githubusercontent.com
-subject_pattern: "repo:wheelerlaw/kc:ref:refs/tags/v[0-9.]+"
+subject_pattern: "repo:wheelerlaw(@3081566)?/kc(@1420302666)?:ref:refs/tags/v[0-9.]+"
 claim_pattern:
   job_workflow_ref: "wheelerlaw/kc/\\.github/workflows/homebrew\\.yml@refs/tags/v[0-9.]+"
 
